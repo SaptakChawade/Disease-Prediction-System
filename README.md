@@ -29,7 +29,14 @@ A machine learning system that predicts three major diseases from patient clinic
 
 ## 📸 Screenshots
 
-> *(Add your Streamlit app screenshots here after running)*
+### 🩸 Diabetes Prediction Form
+![Diabetes Prediction](screenshots/01_diabetes_prediction.svg)
+
+### ❤️ Heart Disease Prediction
+![Heart Disease Prediction](screenshots/02_heart_disease_prediction.svg)
+
+### 📊 Model Performance Dashboard
+![Model Performance](screenshots/03_model_performance.svg)
 
 ---
 
